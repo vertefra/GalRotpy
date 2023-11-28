@@ -1,3 +1,25 @@
+# Local Setup
+
+Tested with Python 3.10
+
+## Create a virtual environment
+
+```sh
+python3 -m venv .venv
+```
+
+## Activate the virtual environment
+
+```sh
+source .venv/bin/activate
+```
+
+## Install dependencies
+
+```sh
+pip install -r requirements.txt
+```
+
 
 # GalRotpy
 
